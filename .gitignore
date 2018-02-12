@@ -2,3 +2,11 @@
 *.iml
 
 *.xml
+
+__pycache__/detector_model.cpython-35.pyc
+
+.ipynb_checkpoints/detector_model-checkpoint.ipynb
+
+*.pyc
+
+.ipynb_checkpoints/predictor-checkpoint.ipynb
