@@ -5,7 +5,8 @@ To score the existing model's predictions, run the following command:
 python get_results.py sample.csv 
 ```
 
-Original Problem Statement:\n
+#Original Problem Statement:  
+
 [//]: # (Image References)
 
 [image1]: ./images/skin_disease_classes.png "Skin Disease Classes"
