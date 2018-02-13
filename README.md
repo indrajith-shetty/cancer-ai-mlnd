@@ -5,6 +5,15 @@ To score the existing model's predictions, run the following command:
 python get_results.py sample.csv 
 ```
 
+Check the terminal output for the scores obtained in the three categories:
+```text
+Category 1 Score: 0.654
+Category 2 Score: 0.825
+Category 3 Score: 0.740
+```
+
+
+
 #Original Problem Statement:  
 
 [//]: # (Image References)
